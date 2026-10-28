@@ -4,9 +4,9 @@ An end-to-end data analytics and web integration project designed to transform F
 
 ## 🌐 Live Project Links
 * *Live Web Application:* [Your GitHub Pages URL Here]
-* *Project Demo Video:* [Watch Explanation Video](https://cap.scourtfx.info/s/n2qxzm385qpjgd5)
-* *Tableau Interactive Dashboard:* [View on Tableau Public](https://public.tableau.com/app/profile/antima.suman/viz/f1-dashboard-final/Formula1RaceIntelligenceDashboard?publish=yes)
-* *Tableau Championship Story:* [View on Tableau Public](https://public.tableau.com/app/profile/antima.suman/viz/f1-story-final/Formula1RaceIntelligenceStory?publish=yes)
+* *Project Demo Video:* [Watch Explanation Video] (https://cap.scourtfx.info/s/n2qxzm385qpjgd5)
+* *Tableau Interactive Dashboard:* [View on Tableau Public] (https://public.tableau.com/app/profile/antima.suman/viz/f1-dashboard-final/Formula1RaceIntelligenceDashboard?publish=yes)
+* *Tableau Championship Story:* [View on Tableau Public] (https://public.tableau.com/app/profile/antima.suman/viz/f1-story-final/Formula1RaceIntelligenceStory?publish=yes)
 
 ## 🎯 Project Objective
 The goal of this project is to process and visualize F1 datasets to uncover patterns in driver performance, circuit characteristics, and championship standings. By transitioning the analysis from a standalone Tableau workbook to an integrated web environment, the insights become highly shareable and centralized.
